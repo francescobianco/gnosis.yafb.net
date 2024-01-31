@@ -1,6 +1,8 @@
 title: 🧘‍♂️ Consciousness Papers Blog
 remote_theme: francescobianco/jekyll-html-pages@main
 
+paginate: 5
+
 exclude:
   - README.md
   
