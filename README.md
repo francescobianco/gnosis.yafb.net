@@ -1,1 +1,3 @@
-# consciousness.yafb.net
+# Consciousness Papers Blog
+
+Visit: <https://consciousness.yafb.net>
