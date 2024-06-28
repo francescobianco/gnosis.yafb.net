@@ -1,0 +1,24 @@
+<script>
+  function writeNewPost() {
+    const postDate = (new Date()).toISOString();
+    const template = `---
+  title: "New post!"
+  date: ${postDate}
+  author: "F.Bianco"
+  ---
+  
+  That's the post...
+  `;
+
+    const repository = 'https://github.com/francescobianco/gnosis.yafb.net'
+    const dateSlug = (new Date()).toISOString().split('T')[0]
+    const dirUrl = '/new/main/_posts'
+    const newPostUrl = repository + dirUrl + '?filename=' + dateSlug + '-new-post.md&value=' + encodeURIComponent(template)
+  
+    window.open(newPostUrl, '_blank')
+    history.go(-1)
+  }
+  
+  writeNewPost()
+
+</script>
