@@ -1,3 +1,3 @@
-# 🧘‍♂️ Consciousness Papers Blog
+# 🧘‍♂️ Gnosis Blog
 
-Visit: <https://consciousness.yafb.net>
+Visit: <https://gnosis.yafb.net>
