@@ -35,7 +35,7 @@ For technical contributions (such as code changes or improvements):
 4. Push your branch (git push origin feature/add-article).
 5. Submit a pull request.
 
-For non-technical contributions (like suggesting topics or providing feedback on existing content), please open an issue here and follow the same procedure for code contributions thereafter.
+For non-technical contributions (like suggesting topics or providing feedback on existing content), please open an issue [here](https://github.com/francescobianco/gnosis.yafb.net/issues) and follow the same procedure for code contributions thereafter.
 
 ## Contact
 
