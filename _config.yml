@@ -1,8 +1,15 @@
 title: 🧘‍♂️ Gnosis Blog
 remote_theme: francescobianco/jekyll-html-pages@main
+author: "F.Bianco"
 
 paginate: 5
 
 exclude:
   - README.md
   
+navigation:
+  - title: Home
+    url: /
+  - title: Write new post
+    url: /new.html
+    
