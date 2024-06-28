@@ -10,7 +10,8 @@ exclude:
 navigation:
   - title: Home
     url: /
-  - title: Write new post
-    url: /new.html
   - title: Source code
     url: https://github.com/francescobianco/gnosis.yafb.net
+  - title: Write new post
+    url: /new.html
+    target: _blank
