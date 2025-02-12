@@ -13,6 +13,7 @@ navigation:
     url: /
   - title: Source code
     url: https://github.com/francescobianco/gnosis.yafb.net
+    target: _blank
   - title: Write new post
     url: /new.html
     target: _blank
