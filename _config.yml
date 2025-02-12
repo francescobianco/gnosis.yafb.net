@@ -19,4 +19,4 @@ navigation:
     target: _blank
 
 custom_head: >
-  <meta name="sa-verify" content="gnosisyafbpaqlyreonyqtu" />
+  <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
