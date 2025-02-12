@@ -17,3 +17,6 @@ navigation:
   - title: Write new post
     url: /new.html
     target: _blank
+
+custom_head: >
+  <meta name="sa-verify" content="gnosisyafbpaqlyreonyqtu" />
