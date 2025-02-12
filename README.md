@@ -41,7 +41,7 @@ For non-technical contributions (like suggesting topics or providing feedback on
 
 For any inquiries or to discuss your ideas, you can reach me via:
 
-- Email: [bianco@javanile.org](mailto:bianco@javanile.org)
+- Email: [info.francescobianco@gmail.com](mailto:info.francescobianco@gmail.com)
 - LinkedIn: [linkedin.com/in/yafb](https://www.linkedin.com/in/yafb)
 
 Thank you for visiting Gnosis Blog! I hope you find inspiration and valuable insights for your personal journey.
