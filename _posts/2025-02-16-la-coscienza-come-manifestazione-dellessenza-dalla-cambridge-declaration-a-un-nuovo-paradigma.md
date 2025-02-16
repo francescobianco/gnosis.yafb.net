@@ -4,8 +4,6 @@ date: 2025-02-16 15:14:30 +0000
 author: "F.Bianco"
 ---
 
-# La Coscienza come Manifestazione dell'Essenza: Dalla Cambridge Declaration a un Nuovo Paradigma
-
 ## Introduzione: La Riconfigurazione del Concetto di Coscienza
 
 Nel 2012, la **Cambridge Declaration on Consciousness** ha segnato un punto di svolta nel dibattito scientifico ed etico sulla coscienza animale. Un gruppo di neuroscienziati ha affermato che molte specie non umane, inclusi mammiferi e uccelli, **posseggono stati di coscienza e capacità intenzionali comparabili a quelle umane**. Questo riconoscimento ha implicazioni profonde non solo sul piano etico, ma anche sulla nostra comprensione della coscienza stessa: cos’è? Da dove emerge? È una proprietà esclusivamente umana o è una caratteristica fondamentale di certi sistemi informativi?
