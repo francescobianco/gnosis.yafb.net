@@ -3,7 +3,7 @@ repository: "https://github.com/francescobianco/gnosis.yafb.net"
 remote_theme: francescobianco/jekyll-html-pages@main
 author: "F.Bianco"
 
-paginate: 5
+paginate: 50
 
 exclude:
   - README.md
